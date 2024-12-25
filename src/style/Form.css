@@ -1,0 +1,11 @@
+.formM {
+    z-index: 9;
+    position: fixed;
+    top: 20%;
+    left: 20%;
+    right: 20%;
+    background: rgba(204, 204, 204, 0.8);
+    padding: 1rem;
+    border-radius: 1rem;
+
+}
